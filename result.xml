@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="Build 180814 1519" tests="3" failures="2" time="69.091" timestamp="2018-08-14T15:19:10.4849007+10:00" id="39e8490c-7a8e-99fa-9574-bc69c346ad5a" log="created: 14/08/2018 3:19:10 PM">
+    <testcase name="No TestCase assigned" time="" timestamp="" log="" />
+    <testcase name="StraightThrough" time="7.733" timestamp="2018-08-14T15:19:19.1357657+10:00" log="+ Passed StraightThrough&#xD;&#xA;+ Passed  OpenUrl&#xD;&#xA;&#xD;&#xA;+ Passed  Maximize the Browser window&#xD;&#xA;&#xD;&#xA;+ Passed  Main Menu&#xD;&#xA;+ Passed   Automobile {UsedValue='x'}&#xD;&#xA;&#xD;&#xA;+ Passed  Vehicle Data&#xD;&#xA;+ Passed   Make {UsedValue='True'}&#xD;&#xA;+ Passed   Engine Performance [kW] {UsedValue='500'}&#xD;&#xA;+ Passed   Date of Manufacture {UsedValue='08/14/2015'}&#xD;&#xA;+ Passed   Number of Seats {UsedValue='True'}&#xD;&#xA;+ Passed   Fuel Type {UsedValue='True'}&#xD;&#xA;+ Passed   List Price {UsedValue='20000'}&#xD;&#xA;+ Passed   License Plate Number {UsedValue='7ACH456'}&#xD;&#xA;+ Passed   Annual Mileage {UsedValue='50000'}&#xD;&#xA;+ Passed   Next » {UsedValue='x'}&#xD;&#xA;&#xD;&#xA;+ Passed  Insurant Data&#xD;&#xA;+ Passed   First Name {UsedValue='John'}&#xD;&#xA;+ Passed   Last Name {UsedValue='Doe'}&#xD;&#xA;+ Passed   Date of Birth {UsedValue='08/14/1992'}&#xD;&#xA;+ Passed   Sex {UsedValue='x'}&#xD;&#xA;+ Passed   Street Address {UsedValue='5150 El Camino Real'}&#xD;&#xA;+ Passed   Country {UsedValue='True'}&#xD;&#xA;+ Passed   Zip Code {UsedValue='94021'}&#xD;&#xA;+ Passed   City {UsedValue='Los Altos'}&#xD;&#xA;+ Passed   Occupation {UsedValue='True'}&#xD;&#xA;+ Passed   Speeding {UsedValue='True'}&#xD;&#xA;+ Passed   BungeeJumping {UsedValue='True'}&#xD;&#xA;+ Passed   CliffDiving {UsedValue='True'}&#xD;&#xA;+ Passed   Skydiving {UsedValue='True'}&#xD;&#xA;+ Passed   Other {UsedValue='True'}&#xD;&#xA;+ Passed   Next » {UsedValue='x'}&#xD;&#xA;&#xD;&#xA;+ Passed  Product Data&#xD;&#xA;+ Passed   Start Date {UsedValue='09/15/2018'}&#xD;&#xA;+ Passed   Insurance Sum {UsedValue='True'}&#xD;&#xA;+ Passed   Merit Rating {UsedValue='True'}&#xD;&#xA;+ Passed   Damage Insurance {UsedValue='True'}&#xD;&#xA;+ Passed   Euro Protection {UsedValue='False'}&#xD;&#xA;+ Passed   Legal Defense Insurance {UsedValue='True'}&#xD;&#xA;+ Passed   Courtesy Car {UsedValue='True'}&#xD;&#xA;+ Passed   Next » {UsedValue='x'}&#xD;&#xA;&#xD;&#xA;+ Passed  Price Option&#xD;&#xA;+ Passed   priceTable&#xD;&#xA;+ Passed   Options {UsedValue='x'}&#xD;&#xA;+ Passed   Home {UsedValue='x'}&#xD;&#xA;&#xD;&#xA;+ Passed  Close Browser&#xD;&#xA;&#xD;&#xA;" />
+    <testcase name="StraightThrough" time="30.584" timestamp="2018-08-14T15:19:29.0237544+10:00" log="- Failed StraightThrough {LogInfo='Execution will be continued with the next TestCase, because there was an error in the current TestCase.'}&#xD;&#xA;- Failed  Main Menu {LogInfo='No matching tab was found.'}&#xD;&#xA;&#xD;&#xA;">
+      <failure message="Test failure">- Failed StraightThrough {LogInfo='Execution will be continued with the next TestCase, because there was an error in the current TestCase.'}
+- Failed  Main Menu {LogInfo='No matching tab was found.'}
+
+</failure>
+    </testcase>
+    <testcase name="StraightThrough" time="30.774" timestamp="2018-08-14T15:20:01.5420059+10:00" log="- Failed StraightThrough {LogInfo='Execution will be continued with the next TestCase, because there was an error in the current TestCase.'}&#xD;&#xA;- Failed  Main Menu {LogInfo='No matching tab was found.'}&#xD;&#xA;&#xD;&#xA;">
+      <failure message="Test failure">- Failed StraightThrough {LogInfo='Execution will be continued with the next TestCase, because there was an error in the current TestCase.'}
+- Failed  Main Menu {LogInfo='No matching tab was found.'}
+
+</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

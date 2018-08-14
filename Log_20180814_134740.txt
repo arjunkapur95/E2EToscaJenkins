@@ -1,0 +1,4 @@
+[3] 1:47:40 PM: Log started for 'C:\reports\testrepo.tws'
+[3] 1:47:40 PM: Log level: 4
+[3] 1:47:40 PM: Release: 11.2.0.13579
+[4] 1:47:40 PM:  ShowStatusInfo: 'Ready'
